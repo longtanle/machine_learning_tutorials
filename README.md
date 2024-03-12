@@ -1,3 +1,3 @@
 # Machine Learning and Data Mining Tutorials
 
-![](ml_qrcode.png)
+<img src="./ml_qrcode.png" width=500>
