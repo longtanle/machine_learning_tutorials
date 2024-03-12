@@ -1,3 +1,3 @@
 # Machine Learning and Data Mining Tutorials
 
-<img src="./ml_qrcode.png" width=500>
+<img src="./ml_qrcode.png" width=300>
